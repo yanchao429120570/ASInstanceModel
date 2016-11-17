@@ -94,13 +94,5 @@ public class MainActivity extends BaseActivity{
         }
     }
 
-//    FormEncodingBuilder builder = new FormEncodingBuilder();
-//    builder.add("username","张鸿洋");
-//
-//    Request request = new Request.Builder()
-//            .url(url)
-//            .post(builder.build())
-//            .build();
-//    mOkHttpClient.newCall(request).enqueue(new Callback(){});
 
 }
