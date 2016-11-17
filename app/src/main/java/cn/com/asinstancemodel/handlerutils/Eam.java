@@ -5,6 +5,4 @@ package cn.com.asinstancemodel.handlerutils;
  */
 public class Eam {
 
-    //搞什么飞机
-
 }
