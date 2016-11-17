@@ -33,8 +33,6 @@ public class MainActivity extends BaseActivity{
     TextView tv;
     ImageView iv;
     String url = "https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=3993198700,3740241574&fm=58";
-    //更新
-    
 
     @Override
     protected int getLayoutResID() {
